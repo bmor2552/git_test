@@ -1,1 +1,5 @@
 So here we are making changes to our work again lol
+So, I ran into an issue with keys and key chains I was able to find what the issue was 
+I had to select repo when creating my personal access token 
+I ended up delete the first one I created and then selecting the right options for the new one. 
+Making edits to both the read me and the text doc to test out this new access !!
